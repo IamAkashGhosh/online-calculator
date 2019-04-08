@@ -1,0 +1,8 @@
+{
+  "name": "online-calculator",
+  "version": "0.0.1",
+  "description": "A simple online calculator",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
